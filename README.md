@@ -4,7 +4,8 @@ The project requires creation of HTML file, CSS file, gitignore file and a Text 
 
 - Additional description about the project and its features.
 - Create a new GitHub repo. -Create a new branch according to the GitHub flow rules.
-- Add a .gitignore file. -Set up a linter for HTML and CSS and make sure that any files that are not relevant are ignored by git.
+- Add a .gitignore file. 
+-Set up a linter for HTML and CSS and make sure that any files that are not relevant are ignored by git.
 - Add descriptive README file to your project
 - please use this template but remember to customize it to your project. 
 - Add 3 files (each one in a separate commit):
